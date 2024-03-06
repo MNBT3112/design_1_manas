@@ -632,14 +632,7 @@ border-radius: 4px;
 border:2px solid #2F2F2F;
 
 }
-#contact_me_big:hover{
-background-color: #000000;
 
-}
-#contact_me_big_1:focus{
-    color:ghostwhite;
-
-}
 
 #pricing_boxes{
     display: flex;
