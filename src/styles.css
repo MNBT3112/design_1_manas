@@ -636,7 +636,7 @@ border:2px solid #2F2F2F;
 background-color: #000000;
 
 }
-#contact_me_big_1:hover{
+#contact_me_big_1:focus{
     color:ghostwhite;
 
 }
